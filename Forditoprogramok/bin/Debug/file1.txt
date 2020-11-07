@@ -1,0 +1,6 @@
+\n\n/* block comment \n
+almalma
+*/\n
+//line comment\n
+// line comment//
+IF ( a == 2 ) { b = 6 }
